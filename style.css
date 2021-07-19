@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+    background-color: lightslategray;
+}
+div {
+    background-color: lightslategray;
+}
+.body_backgorund{
+    background-color: lightslategray;
+}
+html{
+    background-color: lightslategray;
+}
+canvas{
+    background-color: white;
+    border-style: ridge;
+    border-radius: 2px;
+    border-width: 10px;
+}
+button{
+    background-color: lime;
+    color: white;
+  }
